@@ -4,7 +4,7 @@
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/aistyler/yanc-react-scripts.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,15 +12,13 @@
     "node": "^10.12.0 || >=12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/aistyler/yanc-react-scripts/issues"
   },
   "files": [
     "bin",
     "config",
     "lib",
     "scripts",
-    "template",
-    "template-typescript",
     "utils"
   ],
   "bin": {
@@ -114,6 +112,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "gitHead": "f92c37a6e6636ed1650ffd976c6881f59b1be803"
+  }
 }
