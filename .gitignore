@@ -215,4 +215,6 @@ $RECYCLE.BIN/
 # and uncomment the following lines
 # .pnp.*
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,node,yarn,npm
+
+### Misc ###
+./temp
