@@ -1,7 +1,12 @@
-# react-scripts
+# yanc-react-scripts
 
-This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
-Please refer to its documentation:
+```@yanc/react-scripts@git+https://github.com/aistyler/yanc-react-scripts.git```
 
-- [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
-- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+## Usage
+
+```sh
+$> npx create-react-app \  # cra cli
+    cra-test \             # package name
+    --scripts-version \    # custom script package
+        @yanc/react-scripts@git+https://github.com/aistyler/yanc-react-scripts.git 
+```
